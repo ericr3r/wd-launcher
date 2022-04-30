@@ -1,0 +1,7 @@
+# github.com/lithammer/fuzzysearch v1.1.4
+## explicit
+github.com/lithammer/fuzzysearch/fuzzy
+# golang.org/x/text v0.3.7
+golang.org/x/text/runes
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
