@@ -1,6 +1,6 @@
 # wd-launcher
 
-Simple launcher plugin for [Pop Launcer](https://github.com/pop-os/launcher) for use with [wd](https://github.com/mfaerevaag/wd). The plugin will display a list of matching project directories and launch Tilix.
+Simple launcher plugin for [Pop Launcher](https://github.com/pop-os/launcher) for use with [wd](https://github.com/mfaerevaag/wd). The plugin will display a list of matching project directories and launch Tilix.
 
 ## Prerequisites for building
 
